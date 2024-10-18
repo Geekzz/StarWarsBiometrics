@@ -1,0 +1,12 @@
+html, body {
+    font-family: monospace;
+}
+
+.main-content {
+    margin:auto;
+    text-align: center;
+}
+
+.main-content textarea {
+    margin-top: 20px;
+}
